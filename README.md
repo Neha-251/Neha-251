@@ -1,7 +1,7 @@
-#                                                                              Hi there 👋
+##                                                                             Hi there 👋
                                                                
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-##                                                         I'm Neha Sen, an Aspiring Full stack web developer.
+#                                                         I'm Neha Sen, an Aspiring Full stack web developer.
 
 
 ####                                                     🔭 I’m currently learning MERN stack at Masai School ...
