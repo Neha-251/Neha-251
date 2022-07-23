@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Neha Sen</h1>
 <h3 align="center">Analytical and goal-oriented aspiring Full-Stack Web Developer</h3>
 
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" align="center" width="500" height="500" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neha-251&label=Profile%20views&color=0e75b6&style=flat" alt="neha-251" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neha-251" alt="neha-251" /></a> </p>
-
+<div style="margin: auto; display: flex">
+<div>
 - 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-neha-251.vercel.app/](https://portfolio-neha-251.vercel.app/)
@@ -16,6 +12,17 @@
 - 💬 Ask me about **React, NodeJs, MongoDB, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **nehasen2510@gmail.com**
+  </div>
+  <div>
+    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" align="center" width="500" height="500" />
+  </div>
+  </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neha-251&label=Profile%20views&color=0e75b6&style=flat" alt="neha-251" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neha-251" alt="neha-251" /></a> </p>
+
+
 
 <div display="flex">
   <h3 align="left">Connect with me:</h3>
