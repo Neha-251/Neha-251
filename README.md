@@ -1,28 +1,31 @@
-##                                                                            Hi There 👋
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#                                                         I'm Neha Sen, an Aspiring Full stack web developer.
+<h1 align="center">Hi 👋, I'm Neha Sen</h1>
+<h3 align="center">Analytical and goal-oriented aspiring Full-Stack Web Develope</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neha-251&label=Profile%20views&color=0e75b6&style=flat" alt="neha-251" /> </p>
 
-####                                                     🔭 I’m currently learning MERN stack at Masai School ...
-####                                                     👯 I’m looking to join a competent, goal-chased company
-####                                                     Portfolio -> http://portfolio-neha-251.vercel.app/
-####                                                         📫 Contact Me: Email: nehasen2510@gmail.com
-####                                                              Linkedin: linkedin.com/in/2510-neha-sen
-####                                             ⚡ I am interested in: Travelling, Cooking, Music, Swimming...and Coding
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neha-251" alt="neha-251" /></a> </p>
 
+- 🌱 I’m currently learning **Redux**
 
-### Some React Based projects
+- 👨‍💻 All of my projects are available at [https://portfolio-neha-251.vercel.app/](https://portfolio-neha-251.vercel.app/)
 
-#### https://github.com/Neha-251/Rick-and-Morty-Search
-#### https://github.com/Neha-251/job-listing-application
-#### https://github.com/Neha-251/Social-Media-App
-#### https://github.com/Neha-251/Advanced-Mongo--Ecommerce
-#### https://portfolio-neha-251.vercel.app
+- 📝 I regularly write articles on [https://medium.com/@neha712513](https://medium.com/@neha712513)
 
+- 💬 Ask me about **React, NodeJs, MongoDB, HTML, CSS, JavaScript**
 
-###                                                                          Languages and Tools                   
-                                                               
-![icons8-html-5-48](https://user-images.githubusercontent.com/96072906/163950239-0f692589-eef4-47a0-a035-3d4ce6f5d794.png)![icons8-css3-50](https://user-images.githubusercontent.com/96072906/163950263-6e7b5749-0995-4721-93c4-b65df3a489d1.png)![icons8-javascript-48](https://user-images.githubusercontent.com/96072906/163950281-ce521101-2495-4412-ab0f-7aeeab7d59f5.png)![icons8-mongodb-48](https://user-images.githubusercontent.com/96072906/163950295-c5c296bc-59fe-4d6b-9db6-bf72df5b2a92.png)![icons8-nodejs-48](https://user-images.githubusercontent.com/96072906/163950343-6404ffdc-f0e7-403a-a344-f96a603a8c74.png)![icons8-react-100](https://user-images.githubusercontent.com/96072906/163950364-a826dac3-d8e3-4614-9f8a-7721ccb22636.png)![icons8-redux-48](https://user-images.githubusercontent.com/96072906/163950371-7cae31b9-df40-4b2e-b7ea-64f8f4b19630.png)![icons8-npm-48](https://user-images.githubusercontent.com/96072906/163950393-09616e65-2706-47ce-a50b-ba6d8275d0ef.png)     
+- 📫 How to reach me **nehasen2510@gmail.com**
 
-##                                                                                   Let's Connect.....🤝
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BqhuyH7APl0DfHMjUHtI-9YWulXLdk70/view?usp=sharing](https://drive.google.com/file/d/1BqhuyH7APl0DfHMjUHtI-9YWulXLdk70/view?usp=sharing)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neha-251&show_icons=true&locale=en&layout=compact" alt="neha-251" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neha-251&show_icons=true&locale=en" alt="neha-251" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neha-251&" alt="neha-251" /></p>
