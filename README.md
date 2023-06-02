@@ -45,3 +45,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neha-251&show_icons=true&locale=en" alt="neha-251" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neha-251&" alt="neha-251" /></p>
+
+
+![imf](https://img.freepik.com/premium-photo/image-colorful-galaxy-sky-generative-ai_791316-9864.jpg?w=2000)
