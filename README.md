@@ -47,3 +47,14 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neha-251&" alt="neha-251" /></p>
 
 
+
+{{< shortcode-1 attr1 attr2 />}}
+      Random text
+      {{< shortcode-1 attr1 attr2 />}}
+      {{< avatar badge-text="10" image="https://www.bakemyweb.com/files/public/de/69/2770cae8aabc7706c58dde69/i/45/f4/6342cd17350f0d002bd945f4/original?name=dp1.png&mimetype=image/png&cd=inline" />}}
+
+      ### heading
+      
+      {{< activity-item sub-heading="replied" timeline-text="A few years later" image="https://www.bakemyweb.com/files/public/de/69/2770cae8aabc7706c58dde69/i/45/dd/633e9973350f0d002bd945dd/original?name=reply.svg&mimetype=image/svg+xml&cd=inline">}}      
+      {{< shortcode-1 attr1 attr2 />}}
+      {{< /activity-item >}}
