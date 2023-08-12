@@ -10,9 +10,7 @@
   
   
   <div align="left">
-- 🌱 I’m currently learning **Hugo**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-neha-251.vercel.app/](https://portfolio-neha-251.vercel.app/)
+- 🌱 I’m currently working on **React Js*
 
 - 📝 I regularly write articles on [https://medium.com/@neha712513](https://medium.com/@neha712513)
 
