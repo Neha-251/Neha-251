@@ -46,5 +46,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neha-251&" alt="neha-251" /></p>
 
 
-This is a text ![image](https://picsum.photos/200) text after image
 
