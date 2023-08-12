@@ -6,8 +6,6 @@
   </div>
   
   
-  <p>See my solo projects here: (https://graceful-puffpuff-15a6f0.netlify.app)</p>
-  
   
   <div align="left">
 - 🌱 I’m currently working on **React Js*
